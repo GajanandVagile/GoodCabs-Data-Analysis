@@ -88,17 +88,10 @@ This project analyzes ride-hailing trends for GoodCabs using SQL and Power BI. T
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/your-username/PowerBI-SQL-Analysis-GoodCabs)
+- [GitHub Repository](https://github.com/GajanandVagile/GoodCabs-Data-Analysis?tab=readme-ov-file)
 - [Power BI Dashboard Preview](https://app.powerbi.com/view?r=eyJrIjoiZTYyMzY1MGEtMTNjNS00MjYxLTg1MDgtMDUyMzdlNWNjOTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Project Documentation](your-documentation-link)
-
-## Future Enhancements
-
-- Implement more dynamic filtering in Power BI.
-- Automate data refresh using Power BI Service.
-- Integrate with Python for advanced analysis.
 
 ## Contact
 
-If you have any questions, feel free to connect with me on [LinkedIn](your-linkedin-profile-url).
+If you have any questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gajanand-vagile-d9/).
 
